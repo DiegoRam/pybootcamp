@@ -1,0 +1,4 @@
+.DS_Store
+videos/*
+.ipynb_checkpoints/*
+slides.key/*
