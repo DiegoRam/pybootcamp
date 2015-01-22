@@ -30,4 +30,14 @@ Manos a la obra..
 
 Vamos con la consola de ipython
 * mostrar como sunmarizar el contenido de un archivo csv
-* 
+* mostrar fibonacci
+* mostrar plot feature.
+
+Por ultimo
+* mostrar el reloj
+* mostrar como bajar fotos de fb
+
+Cerrando
+Python es una de las tantas opciones, es mas fácil empezar, pero con el tiempo quizás y ya en un ámbito mas profesional van a encontrar contras importantes como la lentitud comparado con otros lenguajes o lo dificil que puede ser mantener sistemas muy  grandes y complejos.
+Mi consejo, es un gran lenguaje para empezar a despertar el creador que todos llevamos adentro.
+
